@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "./components/Layout/Header";
 import RestaurantSummary from "./components/Meals/RestaurantSummary";
+import DummyMeals from "./components/Meals/DummyMeals";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <main>
         <RestaurantSummary />
+        <DummyMeals />
       </main>
     </React.Fragment>
   );
