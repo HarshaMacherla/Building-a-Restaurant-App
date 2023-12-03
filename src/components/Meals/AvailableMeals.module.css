@@ -11,6 +11,35 @@
   padding: 0;
 }
 
+.menu-header,
+.menu-nav {
+  margin: 0;
+}
+
+.menu-nav ul {
+  display: flex;
+  justify-content: space-evenly;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-item {
+  border: 1.5px solid brown;
+  margin: 0.5rem 0 1rem;
+  width: 15rem;
+  justify-content: center;
+  text-align: center;
+  padding: 0.5rem 0;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.active {
+  color: white;
+  background-color: brown;
+}
+
 @keyframes meals-appear {
   from {
     opacity: 0;

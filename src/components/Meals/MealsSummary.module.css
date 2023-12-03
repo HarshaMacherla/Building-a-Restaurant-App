@@ -16,3 +16,7 @@
   font-size: 2rem;
   margin-top: 0;
 }
+
+.summary p {
+  font-size: 1.05rem;
+}
