@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Building-a-Restaurant-App/static/css/main.7fc9f58e.css",
+    "main.js": "/Building-a-Restaurant-App/static/js/main.88aedfe5.js",
+    "static/media/meals.jpg": "/Building-a-Restaurant-App/static/media/meals.96f866ad764146a70c1c.jpg",
+    "index.html": "/Building-a-Restaurant-App/index.html",
+    "main.7fc9f58e.css.map": "/Building-a-Restaurant-App/static/css/main.7fc9f58e.css.map",
+    "main.88aedfe5.js.map": "/Building-a-Restaurant-App/static/js/main.88aedfe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc9f58e.css",
+    "static/js/main.88aedfe5.js"
+  ]
+}
